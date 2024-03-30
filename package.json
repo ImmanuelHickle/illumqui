@@ -1,0 +1,35 @@
+{
+  "name": "illumqui",
+  "version": "1.0.0",
+  "description": "extract archive files in browser, libarchive port in wasm",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ImmanuelHickle/illumqui.git"
+  },
+  "keywords": [
+    "sed",
+    "numquam",
+    "zip",
+    "omnis",
+    "gz",
+    "7z",
+    "aperiam",
+    "js",
+    "browser"
+  ],
+  "author": "ForestAnkunding",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "puppeteer": "^1.9.0",
+    "rollup": "^0.66.6",
+    "rollup-plugin-copy-assets": "^1.0.0",
+    "rollup-plugin-terser": "^3.0.0",
+    "static-server": "^2.2.1"
+  },
+  "bugs": {
+    "url": "https://github.com/ImmanuelHickle/illumqui.git/issues"
+  },
+  "homepage": "https://github.com/ImmanuelHickle/illumqui.git"
+}
